@@ -9,11 +9,11 @@ padding:0;
     display:flex; 
     justify-content:space-around;
     padding: 2px 0;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .cabecalhoImagem{
-    width: 8%;
+    width:8%;
 }
 .cabecalhoListaItem{
 display:inline-block;
@@ -34,9 +34,30 @@ padding: 24px 0;
 
 .sobreConteudo{
     width:40%;
-    padding: 0 150px 0 0;
+    padding: 0 160px 0 0;
 }
 
 .letraParagrafo{
     font-size: 26px;
+}
+
+.membroImagem{
+    width: 195px;
+}
+.membroIcone{
+    width: 45px;
+}
+
+.membroDiv{
+    text-align:center;
+    padding-bottom:60px;
+}
+.membrosTitulo{
+    text-align: center;
+    padding:50px 0;
+}
+
+.membrosTodos{
+    display:grid;
+    grid-template-columns:10% 20% 20% 20% 20%;
 }
