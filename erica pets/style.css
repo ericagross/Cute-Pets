@@ -61,3 +61,7 @@ padding: 24px 0;
     display:grid;
     grid-template-columns:10% 20% 20% 20% 20%;
 }
+
+.footer{
+    width: 100%;
+}
